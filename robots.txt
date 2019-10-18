@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eemaedeec.datacenterjourney.com/sitemap.xml
